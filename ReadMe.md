@@ -9,8 +9,8 @@ ArchBuilder has only support for desktop
 ## RoadMap
 <h3>At it's maturity the application should achieve the following:</h3>
 
-- [] Map requirements to probable design options,
-- [] Provide machine learning capabilities to learn from past design choices and improve the quality of future designs
+- Map requirements to probable design options,
+- Provide machine learning capabilities to learn from past design choices and improve the quality of future designs
 - Automate design tasks, 
 - Provide pre-designed templates, 
 - Assess quality attributes, 
