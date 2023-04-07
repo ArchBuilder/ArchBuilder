@@ -24,7 +24,7 @@ ArchBuilder has only support for desktop
 ## Contributing
 1. Fork it (<https://github.com/ArchBuilder/ArchBuilder/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Read our [contribution guidelines](.github/CONTRIBUTING.md) and (https://google.github.io/styleguide/javaguide.html)
+3. Read our [contribution guidelines](https://google.github.io/styleguide/javaguide.html)
 4. Commit your changes (`git commit -m 'Add some fooBar'`)
 5. Push to the branch (`git push origin feature/fooBar`)
 6. Create a new Pull Request
