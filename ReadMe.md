@@ -35,10 +35,10 @@ ArchBuilder has only support for desktop
  and functions, as well as architectural styles such as client-server, microservices, and event-driven architectures.
  
 _Steps we could follow to create one are:-_
-1.Determine the types of components and patterns to include.
-2.Organize components and patterns (by architectural styles, programming language, function, or other relevant criteria)
-3.Create a database. (Something like where to store these components as they are displayed)
-4.Define metadata (Extra information)
-5.Implement search functionality (To quicken work at user end, for user experience)
-6.Maintain and update (With new trends, fixing errors, etc)
+- Determine the types of components and patterns to include.
+- Organize components and patterns (by architectural styles, programming language, function, or other relevant criteria)
+- Create a database. (Something like where to store these components as they are displayed)
+- Define metadata (Extra information)
+- Implement search functionality (To quicken work at user end, for user experience)
+- Maintain and update (With new trends, fixing errors, etc)
 
